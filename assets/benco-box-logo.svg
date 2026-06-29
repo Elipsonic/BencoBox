@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Benco Box logo</title>
+  <desc id="desc">A hand-drawn eco meal prep box with a green leaf and the words benco box.</desc>
+  <rect width="900" height="900" fill="none"/>
+  <g transform="translate(92 84)">
+    <ellipse cx="352" cy="353" rx="310" ry="36" fill="#d8c29a" opacity=".35"/>
+    <path d="M104 192 C128 114, 568 100, 642 164 C684 200, 674 312, 620 348 C532 404, 162 394, 94 333 C62 304, 70 228, 104 192Z" fill="#d6a468" stroke="#3d2718" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M111 188 C162 128, 544 120, 625 164 C660 184, 666 242, 636 270 C567 336, 162 326, 96 277 C68 256, 74 219, 111 188Z" fill="#efd09b" stroke="#3d2718" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M101 279 C180 328, 553 339, 636 273 L623 329 C532 389, 162 382, 93 324Z" fill="#bf8750" opacity=".45"/>
+    <path d="M135 199 C230 165, 493 158, 602 181" fill="none" stroke="#b7773e" stroke-width="8" stroke-linecap="round" opacity=".45"/>
+    <path d="M174 285 C283 320, 487 323, 602 294" fill="none" stroke="#6d4322" stroke-width="5" stroke-linecap="round" opacity=".35"/>
+    <circle cx="305" cy="218" r="5" fill="#3d2718" opacity=".8"/>
+    <circle cx="485" cy="221" r="5" fill="#3d2718" opacity=".8"/>
+    <path d="M557 143 C627 80, 710 85, 765 105 C746 178, 672 226, 580 204 C560 190, 548 170, 557 143Z" fill="#5c9a28" stroke="#294317" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M579 193 C631 155, 682 126, 748 108" fill="none" stroke="#f5fff1" stroke-width="8" stroke-linecap="round"/>
+    <path d="M642 157 L646 110 M679 139 L717 143 M616 171 L598 132" fill="none" stroke="#f5fff1" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <g fill="#2f5c25" font-family="Inter, Arial, sans-serif" font-weight="900" text-anchor="middle">
+    <text x="450" y="648" font-size="150" letter-spacing="-8">benco</text>
+    <text x="450" y="780" font-size="150" letter-spacing="-8">box</text>
+  </g>
+</svg>
